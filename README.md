@@ -5,4 +5,4 @@ Website to help students in the community to get all the books and notes at one 
 1. PhP
 2. HTML & Css
 3. Mysql
-4. javasc
+4. javascr
